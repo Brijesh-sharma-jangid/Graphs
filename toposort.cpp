@@ -41,5 +41,6 @@ int main() {
   vector<int> order = toposort(adj);
   for (size_t i = 0; i < order.size(); i++) {
     std::cout << order[i] + 1 << " ";
+	  
   }
 }
