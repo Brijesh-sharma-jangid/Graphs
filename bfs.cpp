@@ -39,6 +39,6 @@ int main() {
   }
   int s, t;
   std::cin >> s >> t;
-  s--, t--;
+  s--; t--;
   std::cout << distance(adj, s, t);
 }
