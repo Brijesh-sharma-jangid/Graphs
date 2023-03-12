@@ -1,2 +1,2 @@
 # Graphs
-algorithms
+Algorithms
